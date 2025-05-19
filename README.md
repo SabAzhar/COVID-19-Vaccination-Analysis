@@ -1,5 +1,4 @@
-### 📊 **COVID-19 Vaccination Analysis – Power BI & SQL Project**
-
+### 📊 **COVID-19 Vaccination Analysis – Power BI & SQL Project** 
 Overview
 This project provides a comprehensive analysis of global COVID-19 vaccination trends using two powerful tools:
 
@@ -23,5 +22,8 @@ This project provides a comprehensive analysis of global COVID-19 vaccination tr
 6. **Daily Average Vaccinations – Top 5 Countries** – Shows top countries with consistent high vaccination rates.
 
 #### ✅ **Conclusion**
-
 Combining **Power BI visual storytelling** with **SQL analytical depth** strengthens the accuracy, insights, and impact of the data. This dual-tool approach offers a holistic view of the global vaccination effort.
+
+**2nd Project link: https://github.com/SabAzhar/Customer-Churn-Analysis**
+
+
